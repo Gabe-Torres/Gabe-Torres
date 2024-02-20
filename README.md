@@ -15,25 +15,60 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWczcnVtMmdybmRvOW1mOWh2cXY5ZjczM3NiZ2kyODd5MjJ2c3d6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
+</div>
+
+---
 
 ### About Me
 
-Hey there, I'm Gabe, and you've landed on my little corner of the internet!
+I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Texas and you've landed on my little corner of the internet!
 
-I'm a Backend Engineer with a solid foundation in social science and a background of 5 years in customer service. My skill set revolves around collaboration, problem-solving, and software development. I'm enthusiastic about applying my problem-solving skills and tech passion to a fulfilling career in software development.
+- :telescope: I'm an Engineer with a solid foundation in social science and a background of 5 years in customer service. My skill set revolves around collaboration, problem-solving, and software development. I'm enthusiastic about applying my problem-solving skills and tech passion to a fulfilling career in software development.
 
-### My Expertise
+- :seedling: Exploring frontend tech: React, and currently sharpening my skills in SQL
 
-- **Software Development:** I bring hands-on experience and skills to the table, ready to tackle diverse challenges.
-- **Collaboration:** A strong team player, I thrive in collaborative environments and value the power of teamwork.
-- **Customer Service:** With 5 years of customer service experience, I understand the importance of user satisfaction and effective communication.
+- :zap: In my free time, I enjoy the outdoors ⛰️ and watching movies 🎥
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabrieltt)
 
 ### My Ambition
 
 I aspire to contribute my skills to projects that make a positive social impact. Whether it's working with non-profit organizations or engaging in projects that help others in meaningful ways, I am driven by the opportunity to make a difference.
 
-## My GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabe-torres&show_icons=true&theme=radical)
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Git" **alt="Graphql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="circleci" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/rspec" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-torres&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
