@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdsYTUwcDdnZXh0b3k0Z21iMHIycW9qbDltaW80ZXF5eG1taDYydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F855szZFwU5nMdQTP0/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="www.linkedin.com/in/gabrieltt">
+  <a href="https://www.linkedin.com/in/gabrieltt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="https://twitter.com/gt_codez">
@@ -31,7 +31,7 @@ I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I enjoy the outdoors ⛰️ and watching movies 🎥
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabrieltt)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltt/)
 
 ### My Ambition
 
