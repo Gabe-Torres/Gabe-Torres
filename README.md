@@ -65,11 +65,11 @@ I aspire to contribute my skills to projects that make a positive social impact.
 
 ### :fire: My Stats :
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gabe-Torres?cardType=octocat&theme=blueberry&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gabe-Torres?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-torres&theme=blueberry&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-torres&theme=tokyonight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
