@@ -65,11 +65,18 @@ I aspire to contribute my skills to projects that make a positive social impact.
 
 ### :fire: My Stats :
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gabe-Torres?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/Gabe-Torres?cardType=octocat&theme=tokyonight&preferLogin=false">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gabe-Torres?cardType=octocat&theme=tokyonight&preferLogin=false" alt="My Awesome Stats" style="width: 50%; max-width: 500px;" />
+  </a>
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight" alt="GitHub Streak" style="width: 50%; max-width: 500px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-torres&theme=tokyonight&layout=donut" alt="Top Langs" style="width: 50%; max-width: 500px;" />
+  </a>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-torres&theme=tokyonight&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
