@@ -54,7 +54,7 @@ I aspire to contribute my skills to projects that make a positive social impact.
 
 ---
 
-### 🔍 Exploring the fundamentals :
+### 🔍 Exploring the Fundamentals :
 
 <div>
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
