@@ -23,7 +23,7 @@
 
 ### About Me
 
-I am a Backend Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and you've landed on my little corner of the internet
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and you've landed on my little corner of the internet
 
 - :telescope: I'm an Engineer with a solid foundation in social science and a background of 5 years in customer service. My skill set revolves around collaboration, problem-solving, and software development. I'm enthusiastic about applying my problem-solving skills and tech passion to a fulfilling career in software development.
 
