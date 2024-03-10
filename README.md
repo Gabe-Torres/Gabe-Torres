@@ -25,7 +25,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and you've landed on my little corner of the internet
 
-- :telescope: I have a solid foundation in social science and a background of 5 years in customer service. My skill set revolves around collaboration, strategic thinking, and software development. I'm motivated to apply my problem-solving skills and tech passion to a fulfilling career in software development.
+- :telescope: I have a solid foundation in social science and a background of 5 years in customer service. My skill set revolves around collaboration, strategic thinking, and software development.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltt/)
 
