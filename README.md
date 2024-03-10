@@ -7,7 +7,11 @@
 <a href="https://twitter.com/gt_codez">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+<a href="https://www.gabe-torres.com/">
+    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Website Badge"/>
+  </a>
 </div>
+  
 <img src="https://komarev.com/ghpvc/?username=gabe-torres&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
@@ -57,10 +61,9 @@ I aspire to contribute my skills to projects that make a positive social impact.
 ### 🔍 Exploring the Fundamentals :
 
 <div>
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
 ### :fire: My Stats :
