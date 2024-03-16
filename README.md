@@ -1,5 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdsYTUwcDdnZXh0b3k0Z21iMHIycW9qbDltaW80ZXF5eG1taDYydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F855szZFwU5nMdQTP0/giphy.gif" width="100"/>
+<div id="header" align="center"> 
+
+  ![Gabriel Torres](https://github.com/Gabe-Torres/Gabe-Torres/assets/127896538/af906e00-500e-4250-8142-613aa057f40f)
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/gabrieltt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,23 +21,20 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWczcnVtMmdybmRvOW1mOWh2cXY5ZjczM3NiZ2kyODd5MjJ2c3d6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300" height="150"/>
-</div>
-
 ---
 
 ### About Me
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and you've landed on my little corner of the internet
+I am a Software Engineer and you've landed on my little corner of the internet
 
-- :telescope: I have a solid foundation in social science and a background of 5 years in customer service. My skill set revolves around collaboration, strategic thinking, and software development.
+- :telescope: My skill set revolves around collaboration, backend software development, deployment, Git, and API integrations, among others!
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltt/)
+- 🍜 Always looking for some quality ramen
 
 ### My Ambition
 
-I aspire to contribute my skills to projects that make a positive social impact. Whether it's working with non-profit organizations or engaging in projects that help others in meaningful ways, I am driven by the opportunity to make a difference.
+I aspire to contribute my skills to projects that make a positive social impact. Whether it's working with non-profit organizations or engaging in projects that help others in meaningful ways, I am driven by the opportunity to make a difference. 
 
 ---
 
@@ -65,6 +64,17 @@ I aspire to contribute my skills to projects that make a positive social impact.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
+
+---
+
+### :rocket: Current Projects
+
+- **[GT's Fortnite Tracker](https://github.com/orgs/gts-fortnite-app/repositories)**: A web application that allows users to check the latest skins and emotes in the Fortnite item shop. This application is a microservice built with Ruby on Rails and React. [View Live](https://gts-fortnite-tracker-a0d0405c9f2a.herokuapp.com/)
+
+- **[Campaign Planner Pro](https://github.com/Campaign-Planner-Pro/Campaign-Planner-Pro)**: A tool for Dungeons and Dragons players to track their campaign settings, characters, and more. This application is a monolith built with Ruby on Rails. This project implements Turbo frames, Hotwire, Stimulus, and Tailwind CSS to make an enjoyable user UI.
+
+---
+
 
 ### :fire: My Stats :
 
