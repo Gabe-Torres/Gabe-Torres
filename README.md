@@ -1,7 +1,6 @@
 <div id="header" align="center"> 
 
-  ![Gabriel Torres](https://github.com/Gabe-Torres/Gabe-Torres/assets/127896538/af906e00-500e-4250-8142-613aa057f40f)
-  
+ <img src="https://github.com/Gabe-Torres/Gabe-Torres/assets/127896538/af906e00-500e-4250-8142-613aa057f40f" width="400px" alt="Gabriel Torres"/>  
 <div id="badges">
   <a href="https://www.linkedin.com/in/gabrieltt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
