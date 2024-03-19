@@ -68,9 +68,9 @@ I aspire to contribute my skills to projects that make a positive social impact.
 
 ### :rocket: Current Projects
 
-- **[GT's Fortnite Tracker](https://github.com/orgs/gts-fortnite-app/repositories)**: A web application that allows users to check the latest skins and emotes in the Fortnite item shop. This application is a microservice built with Ruby on Rails and React. [View Live](https://gts-fortnite-tracker-a0d0405c9f2a.herokuapp.com/)
+- **[GT's Fortnite Tracker](https://github.com/orgs/gts-fortnite-app/repositories)**: A web application that allows users to check the latest skins and emotes in the Fortnite item shop. This application is a microservice built with a custom Ruby on Rails backend API and frontend React. [View Live](https://gts-fortnite-tracker-a0d0405c9f2a.herokuapp.com/)
 
-- **[Campaign Planner Pro](https://github.com/Campaign-Planner-Pro/Campaign-Planner-Pro)**: A tool for Dungeons and Dragons players to track their campaign settings, characters, and more. This application is a monolith built with Ruby on Rails. This project implements Turbo frames, Hotwire, Stimulus, and Tailwind CSS to make an enjoyable user UI.
+- **[Campaign Planner Pro](https://github.com/Campaign-Planner-Pro/Campaign-Planner-Pro)**: A tool for Dungeons and Dragons players to track their campaign settings, characters, and more. This application is a monolith built with Ruby on Rails. This project implements Devise(user auth), Turbo 8, TurboFrames, SLIM views(MVC), Hotwire, Stimulus, and Tailwind CSS to make user UI enjoyable.
 
 ---
 
