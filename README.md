@@ -84,9 +84,9 @@ I aspire to contribute my skills to projects that make a positive social impact.
   <a href="http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight" alt="GitHub Streak" style="width: 50%; max-width: 500px;" />
   </a>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-torres&theme=tokyonight&layout=donut" alt="Top Langs" style="width: 50%; max-width: 500px;" />
-  </a> -->
+  </a>
 </div>
 
 
