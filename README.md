@@ -24,9 +24,9 @@
 
 ### About Me
 
-I am a Software Engineer and you've landed on my little corner of the internet
+I am a Backend Software Engineer and you've landed on my little corner of the internet! 
 
-- :telescope: My skill set revolves around collaboration, backend software development, deployment, Git, and API integrations, among others!
+- :telescope: My skill set revolves around collaboration, backend software development, object-oriented programming, deployment, and API integrations, among others!
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltt/)
 - 🍜 Always looking for some quality ramen
