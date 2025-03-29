@@ -73,6 +73,9 @@ I am actively pursuing roles where I can contribute my skills to projects that m
 - **[Ruby for Good](https://github.com/rubyforgood)**: I am actively contributing to the non-profit organization, Ruby for Good. I encourage anyone who is looking to contribute to projects that support great causes to check 'em out! Amazing community and meaningful applications. 
 I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 
+- **[Civic Test Tracker](https://github.com/Gabe-Torres/civics_test_tracker)**: A recent project I am working on is Civic Test Tracker. A study tool to help test your knowledge of U.S. history and government. And is made to help those who seek to prepare for the civics portion of the naturalization test.
+
+
 ---
 
 
