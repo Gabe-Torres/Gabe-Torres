@@ -5,14 +5,17 @@
 
 <div id="header" align="center">  
 <div id="badges">
-  <a href="https://www.linkedin.com/in/gabrieltt/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <a href="https://www.linkedin.com/in/gabrieltt//">
+  <img height="50" src="https://github.com/user-attachments/assets/dfd7e27a-3a6b-41c9-ac77-1ca2215d7821"/>
+</a>
+
+  <a href="mailto:thomastgtorres21@gmail.com">
+    <img height="50" src="https://github.com/user-attachments/assets/857dacd5-1572-4851-b8e8-8dbd754f0d49"/>
   </a>
-<a href="https://twitter.com/gt_codez">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 <a href="https://www.gabe-torres.com/">
-    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Website Badge"/>
+    <img height="50" src="https://github.com/user-attachments/assets/db5eb748-a154-4bee-9679-e3cc74619d4d" alt="Website Badge"/>
   </a>
 </div>
   
