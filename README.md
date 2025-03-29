@@ -92,7 +92,7 @@ I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 
 ---
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gabe-Torres/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
