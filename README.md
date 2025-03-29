@@ -20,17 +20,36 @@
 </div>
   
 <img src="https://komarev.com/ghpvc/?username=gabe-torres&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
 ---
 
+```yaml
+name: Gabriel Torres
+located_in: Home is where the heart is. So your real home is in your chest
+occupation: Software Developer
+education:
+  [
+    "ACCET Accredited program - Turing School of Software and Design",
+    "Bachelor's in Anthropology",
+    "Undergraduate Certificate in Applied Anthropology",
+  ]
+
+fields_of_interests:
+  [
+    "API Development",
+    "Backend Engineering",
+    "UI/UX",
+    "Non profit work",
+    "DevOps",
+  ]
+  
+currently_learning: ["React, Javascript, AWS and Python"]
+hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
+```
 ### About Me
 
-I am a Backend Software Engineer and you've landed on my little corner of the internet! 
+I am a Software Engineer and you've landed on my little corner of the internet! 
 
 - :telescope: My skill set revolves around collaboration, backend software development, object-oriented programming, deployment, and API integrations, among others!
 
@@ -45,30 +64,20 @@ I am actively pursuing roles where I can contribute my skills to projects that m
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
-
----
-
-### 🔍 Exploring the Fundamentals :
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/circleci/circleci-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" />
 </div>
 
 ---
@@ -83,20 +92,14 @@ I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 
 ---
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-### :fire: My Stats :
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-<div style="display: flex; justify-content: space-around;">
-  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/Gabe-Torres?cardType=octocat&theme=tokyonight&preferLogin=false">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Gabe-Torres?cardType=octocat&theme=tokyonight&preferLogin=false" alt="My Awesome Stats" style="width: 50%; max-width: 500px;" />
-  </a>
-  <a href="http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=gabe-torres&theme=tokyonight" alt="GitHub Streak" style="width: 50%; max-width: 500px;" />
-  </a>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-torres&theme=tokyonight&layout=donut" alt="Top Langs" style="width: 50%; max-width: 500px;" />
-  </a> -->
-</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving"/>
+</p>
 
 
 
