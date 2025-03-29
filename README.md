@@ -70,7 +70,8 @@ I am actively pursuing roles where I can contribute my skills to projects that m
 
 ### :rocket: Current Projects
 
-- **[Campaign Planner Pro](https://github.com/Campaign-Planner-Pro/Campaign-Planner-Pro)**: A tool for Dungeons and Dragons players to track their campaign settings, characters, and more. This application is a monolith built with Ruby on Rails. This project implements Devise(user auth), Turbo 8, TurboFrames, SLIM views(MVC), Hotwire, Stimulus, and Tailwind CSS to make user UI enjoyable.
+- **[Ruby for Good](https://github.com/rubyforgood)**: I am actively contributing to the non-profit organization, Ruby for Good. I encourage anyone who is looking to contribute to projects that support great causes to check 'em out! Amazing community and meaningful applications. 
+I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 
 ---
 
