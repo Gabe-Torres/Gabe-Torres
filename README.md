@@ -1,6 +1,9 @@
-<div id="header" align="center"> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=Gabriel&fontAlign=30&fontSize=30&desc=Software%20Engineer&descAlign=60&descAlignY=50&theme=tokyonight&animation=twinkling"/>
+</p>
 
- <img src="https://github.com/Gabe-Torres/Gabe-Torres/assets/127896538/af906e00-500e-4250-8142-613aa057f40f" width="400px" alt="Gabriel Torres"/>  
+
+<div id="header" align="center">  
 <div id="badges">
   <a href="https://www.linkedin.com/in/gabrieltt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
