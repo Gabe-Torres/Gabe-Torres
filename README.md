@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&text=Gabriel&fontAlign=30&fontSize=30&desc=Software%20Engineer&descAlign=60&descAlignY=50&theme=tokyonight&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=Gabriel&fontAlign=30&fontSize=30&desc=Software%20Engineer&descAlign=60&descAlignY=50&theme=tokyonight&animation=twinkling&height=100&section=header""/>
 </p>
 
 
@@ -99,7 +99,7 @@ I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </p>
 
 
