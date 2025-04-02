@@ -92,6 +92,8 @@ I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 ![snake gif](https://github.com/Gabe-Torres/Gabe-Torres/blob/output/github-snake-dark.svg)
 <div id="header" align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Gabe-Torres&style=flat-square&color=blue" alt=""/>
+
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 
