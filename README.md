@@ -42,7 +42,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["React, Javascript, AWS and Python"]
+currently_learning: ["React, AWS and Python"]
 hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
 ```
 ### About Me
