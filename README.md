@@ -55,7 +55,7 @@ I am a Software Engineer and you've landed on my little corner of the internet!
 
 ### My Ambition
 
-I am actively pursuing roles where I can contribute my skills to projects that make a positive social impact. Whether it's working with non-profit organizations or engaging in projects that help others in meaningful ways, I am driven by the opportunity to make a difference.
+My goal is to contribute my skills to projects that make a positive social impact. Whether it's working with non-profit organizations or engaging in projects that help others in meaningful ways, I am driven by the opportunity to make a difference.
 
 ---
 
