@@ -45,13 +45,7 @@ hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
 
 I am a Software Engineer and you've landed on my little corner of the internet! 
 
-- :telescope: My skill set revolves around collaboration, backend software development, object-oriented programming, deployment, and API integrations, among others!
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltt/)
-
-### My Ambition
-
-My goal is to contribute my skills to projects that make a positive social impact. Whether it's working with non-profit organizations or engaging in projects that help others in meaningful ways, I am driven by the opportunity to make a difference.
+- :telescope: My skill set revolves around collaboration, software development, object-oriented programming, deployment, and API integrations, among others!
 
 ---
 
