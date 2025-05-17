@@ -38,7 +38,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["React, AWS and Python"]
+currently_learning: ["Angular, Vue, AWS"]
 hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
 ```
 ### About Me
