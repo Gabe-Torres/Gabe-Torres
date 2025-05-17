@@ -21,7 +21,7 @@
 ```yaml
 name: Gabriel Torres
 located_in: Home is where the heart is. So your real home is in your chest
-occupation: Software Developer
+occupation: Software Engineer
 education:
   [
     "ACCET Accredited program - Turing School of Software and Design",
@@ -34,7 +34,8 @@ fields_of_interests:
     "API Development",
     "Backend Engineering",
     "UI/UX",
-    "Non profit work",
+    "Open-Source Applications",
+    "Non-profit work",
     "DevOps",
   ]
   
