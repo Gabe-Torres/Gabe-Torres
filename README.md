@@ -25,14 +25,15 @@ occupation: Software Engineer
 education:
   [
     "ACCET Accredited program - Turing School of Software and Design",
-    "Bachelor's in Anthropology",
-    "Undergraduate Certificate in Applied Anthropology",
+    "Bachelor's in Anthropology - University of North Texas",
+    "Undergraduate Certificate in Applied Anthropology - University of North Texas",
   ]
 
 fields_of_interests:
   [
+    "Backend Engineering"
     "API Development",
-    "Backend Engineering",
+    "Software Development",
     "UI/UX",
     "Open-Source Applications",
     "Non-profit work",
