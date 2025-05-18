@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Gabriel%20Torres&fontSize=90&animation=twinkling&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gabriel%20Torres&fontSize=90&animation=twinkling&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62"/>
 </p>
 
 
@@ -86,7 +86,7 @@ I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 
 <img src="https://komarev.com/ghpvc/?username=Gabe-Torres&style=flat-square&color=blue" alt=""/>
 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d5d0d0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 
