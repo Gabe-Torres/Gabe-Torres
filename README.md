@@ -18,10 +18,10 @@
 
 ---
 
-```yaml
-name: Gabriel Torres
-located_in: Home is where the heart is. So your real home is in your chest
-occupation: Software Engineer
+```ruby
+name: "Gabriel Torres"
+located_in: "Home is where the heart is. So your real home is in your chest"
+occupation: "Software Engineer"
 education:
   [
     "ACCET Accredited program - Turing School of Software and Design",
