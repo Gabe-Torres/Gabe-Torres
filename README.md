@@ -7,11 +7,15 @@
 <div id="badges">
 
   <a href="https://www.linkedin.com/in/gabrieltt//">
-  <img height="50" src="https://github.com/user-attachments/assets/dfd7e27a-3a6b-41c9-ac77-1ca2215d7821"/>
+  <img height="50" src="https://github.com/user-attachments/assets/c71a87cf-04a4-44a9-bffa-475c782afcac"/>
 </a>
 
   <a href="mailto:thomastgtorres21@gmail.com">
-    <img height="50" src="https://github.com/user-attachments/assets/857dacd5-1572-4851-b8e8-8dbd754f0d49"/>
+    <img height="50" src="https://github.com/user-attachments/assets/53c82b6f-3be7-466f-b623-49c44798b643"/>
+  </a>
+  
+  <a href="https://www.gabe-torres.com/">
+    <img height="50" src="https://github.com/user-attachments/assets/a371a156-6704-4b9f-9164-8a0fb9fcd29b"/>
   </a>
 </div>
   </div>
@@ -65,16 +69,6 @@ hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />
 </div>
-
----
-
-### :rocket: Current Projects
-
-- **[Ruby for Good](https://github.com/rubyforgood)**: I am actively contributing to the non-profit organization, Ruby for Good. I encourage anyone who is looking to contribute to projects that support great causes to check 'em out! Amazing community and meaningful applications. 
-I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
-
-- **[Civic Test Tracker](https://github.com/Gabe-Torres/civics_test_tracker)**: A recent project I am working on is Civic Test Tracker. A study tool to help test your knowledge of U.S. history and government. And is made to help those who seek to prepare for the civics portion of the naturalization test.
-
 
 ---
 
