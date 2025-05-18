@@ -7,15 +7,15 @@
 <div id="badges">
 
   <a href="https://www.linkedin.com/in/gabrieltt//">
-  <img height="50" src="https://github.com/user-attachments/assets/c71a87cf-04a4-44a9-bffa-475c782afcac"/>
+  <img height="50" src="https://github.com/user-attachments/assets/c740e2f2-8bbc-4be1-af5a-b03e6391524a"/>
 </a>
 
   <a href="mailto:thomastgtorres21@gmail.com">
-    <img height="50" src="https://github.com/user-attachments/assets/53c82b6f-3be7-466f-b623-49c44798b643"/>
+    <img height="50" src="https://github.com/user-attachments/assets/16910778-a445-426f-89a6-ddf57ebfdd53"/>
   </a>
   
   <a href="https://www.gabe-torres.com/">
-    <img height="50" src="https://github.com/user-attachments/assets/a371a156-6704-4b9f-9164-8a0fb9fcd29b"/>
+    <img height="50" src="https://github.com/user-attachments/assets/0636909c-657b-49f4-b1e3-489c3c1afda2"/>
   </a>
 </div>
   </div>
