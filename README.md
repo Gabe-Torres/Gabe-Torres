@@ -91,7 +91,7 @@ I am active in projects like Human Essentails, Homeward Tails, and SKillrx.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
 </p>
 
 
