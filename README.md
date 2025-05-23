@@ -67,20 +67,18 @@ hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
 
 ---
 
-![snake gif](https://github.com/Gabe-Torres/Gabe-Torres/blob/output/github-snake-dark.svg)
 <div id="header" align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Gabe-Torres&style=flat-square&color=blue" alt=""/>
-
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d5d0d0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  <img src="https://komarev.com/ghpvc/?username=Gabe-Torres&style=flat-square&color=blue" alt=""/>
+  <br>
+  <img src="https://github.com/Gabe-Torres/Gabe-Torres/blob/output/github-snake-dark.svg" alt="snake gif"/>
+  <br>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d5d0d0&bar_color_cover=false" alt="spotify-github-profile"/>
+  </a>
 </div>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
 </p>
-
-
-
 
 
