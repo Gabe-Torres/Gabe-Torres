@@ -28,9 +28,8 @@ located_in: "TX"
 occupation: "Software Engineer"
 education:
   [
-    "ACCET Accredited program - Turing School of Software and Design",
-    "Bachelor's in Anthropology - University of North Texas",
-    "Undergraduate Certificate in Applied Anthropology - University of North Texas",
+    "Turing School of Software and Design",
+     "University of North Texas",
   ]
 
 fields_of_interests:
