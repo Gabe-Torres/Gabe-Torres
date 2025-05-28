@@ -41,6 +41,7 @@ fields_of_interests:
     "Open-Source Applications",
     "Non-profit work",
     "DevOps",
+    "Anthropology",
   ]
 
 hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
