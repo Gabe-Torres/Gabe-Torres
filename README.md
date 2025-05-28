@@ -24,7 +24,7 @@
 
 ```ruby
 name: "Gabriel Torres"
-located_in: "Home is where the heart is. So your real home is in your chest"
+located_in: "TX"
 occupation: "Software Engineer"
 education:
   [
