@@ -13,6 +13,10 @@
   <a href="mailto:thomastgtorres21@gmail.com">
     <img height="50" src="https://github.com/user-attachments/assets/bcb6e1ba-02dc-404b-b523-0339f0f4a310"/>
   </a>
+
+  <a href="https://www.gabe-torres.com/">
+    <img height="50" src="https://github.com/user-attachments/assets/0636909c-657b-49f4-b1e3-489c3c1afda2"/>
+  </a>
 </div>
   </div>
 
