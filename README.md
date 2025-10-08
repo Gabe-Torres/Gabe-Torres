@@ -38,9 +38,8 @@ fields_of_interests:
     "API Development",
     "Software Development",
     "UI/UX",
-    "Open-Source Applications",
+    "Open-Source",
     "Non-profit work",
-    "DevOps",
     "Anthropology",
   ]
 
