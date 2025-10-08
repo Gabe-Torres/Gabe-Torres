@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Gabriel%20Torres&fontSize=90&animation=twinkling&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Gabriel%20Torres&fontSize=70&animation=twinkling&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62"/>
 </p>
 
 
@@ -8,11 +8,11 @@
 
   <a href="https://www.linkedin.com/in/gabrieltt//">
   <img height="50" src="https://github.com/user-attachments/assets/c740e2f2-8bbc-4be1-af5a-b03e6391524a"/>
-</a>
+</a>&nbsp;&nbsp;
 
   <a href="mailto:thomastgtorres21@gmail.com">
     <img height="50" src="https://github.com/user-attachments/assets/bcb6e1ba-02dc-404b-b523-0339f0f4a310"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.gabe-torres.com/">
     <img height="50" src="https://github.com/user-attachments/assets/0636909c-657b-49f4-b1e3-489c3c1afda2"/>
@@ -24,7 +24,7 @@
 
 ```ruby
 name: "Gabriel Torres"
-located_in: "TX"
+located_in: "Based in Texas"
 occupation: "Software Engineer"
 education:
   [
@@ -34,7 +34,7 @@ education:
 
 fields_of_interests:
   [
-    "Backend Engineering"
+    "Backend Engineering",
     "API Development",
     "Software Development",
     "UI/UX",
@@ -60,7 +60,6 @@ hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/> |
 
 </div>
-
 
 ---
 
