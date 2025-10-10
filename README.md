@@ -67,9 +67,9 @@ hobbies: ["Outdoor Adventures", "Cinema", "Fishing", "Kayaking", "Reading"]
   <br>
   <img src="https://github.com/Gabe-Torres/Gabe-Torres/blob/output/github-snake-dark.svg" alt="snake gif"/>
   <br>
-<!--   <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xo-til-we-overdose%E0%A5%90&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=d5d0d0&bar_color_cover=false" alt="spotify-github-profile"/>
-  </a> -->
+  </a>
 </div>
 
 <p align="center">
