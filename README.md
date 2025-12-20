@@ -9,10 +9,6 @@
   <a href="https://www.linkedin.com/in/gabrieltt//">
   <img height="50" src="https://github.com/user-attachments/assets/c740e2f2-8bbc-4be1-af5a-b03e6391524a"/>
 </a>&nbsp;&nbsp;
-
-  <a href="https://www.gabe-torres.com/">
-    <img height="50" src="https://github.com/user-attachments/assets/0636909c-657b-49f4-b1e3-489c3c1afda2"/>
-  </a>
 </div>
   </div>
 
