@@ -8,7 +8,7 @@
 
   <a href="https://www.linkedin.com/in/gabrieltt//">
   <img height="50" src="https://github.com/user-attachments/assets/c740e2f2-8bbc-4be1-af5a-b03e6391524a"/>
-</a>&nbsp;&nbsp;
+</a>
 </div>
   </div>
 
