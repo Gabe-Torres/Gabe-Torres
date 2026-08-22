@@ -27,7 +27,6 @@ education:
 fields_of_interests:
   [
     "Backend Engineering",
-    "API Development",
     "Software Development",
     "UI/UX",
     "Open-Source",
